@@ -62,7 +62,7 @@ public class Codeland {
             System.out.print(letra);
             try {
 
-                TimeUnit.MILLISECONDS.sleep(30); // deixar 30
+                TimeUnit.MILLISECONDS.sleep(30); // deixar 30 //bom dia
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }
